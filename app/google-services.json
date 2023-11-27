@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431886671451",
+    "project_id": "promulfirebasecarlosmilena",
+    "storage_bucket": "promulfirebasecarlosmilena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431886671451:android:60344d22f8353e62d6697e",
+        "android_client_info": {
+          "package_name": "com.example.promul_firebase_carlosmilenaquesada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZXkjX-T8m7SD8Z31E5l6rtzZJlkdfb5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
